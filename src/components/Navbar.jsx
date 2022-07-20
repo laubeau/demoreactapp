@@ -22,7 +22,7 @@ const Navbar = () => {
         //     </ul>
         // </div>
         <div className="flex container mx-auto justify-between items-center py-5 px-5">
-            <h1 className="text-blue-400 text-3xl ">Logo</h1>
+            <h1 className="text-blue-400 text-3xl ">Logoz</h1>
             <ul className=" hidden md:flex">
             <li className=" p-2">Link Name</li>
             <li className=" p-2"> Name</li>
